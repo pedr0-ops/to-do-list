@@ -10,4 +10,10 @@
 
 - This project aims to create a to-do list to deepen knowledge in React.
 
-![Alt text](image.png)
+- Images of application
+
+![Alt text](application.png)
+
+- Responsive Layout
+
+![Alt text](application_responsive.png)
