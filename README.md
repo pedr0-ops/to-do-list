@@ -9,3 +9,5 @@
 ## About 🎯
 
 - This project aims to create a to-do list to deepen knowledge in React.
+
+![Alt text](image.png)
